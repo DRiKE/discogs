@@ -12,6 +12,7 @@ class Discogs::Artist::Release < Discogs::Resource
                 :format,
                 :year,
                 :label,
-                :trackinfo
+                :trackinfo,
+                :role
 
 end
